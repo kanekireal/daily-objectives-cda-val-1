@@ -13,14 +13,14 @@
 
 ### HTML :
 
-* [ ] Découvrir les bases de HTML :
+* [x] Découvrir les bases de HTML :
   * [x] Comprendre la structure de base HTML
   * [x] Découvrir les principaux tags HTML et comprendre leur utilité
   * [x] Savoir architecturer une page HTML basique
   * [x] Comprendre le fonctionnement des attributs
   * [x] Savoir commenter dans une page HTML
   * [x] Découvrir le principe de parents/enfants
-  * [ ] Découvrir le HTML5 sémantique
+  * [x] Découvrir le HTML5 sémantique
   * [x] Comprendre la différence entre les liens relatifs et liens absolus
   * [x] Comprendre le fonctionnement des tableaux en HTML5 et savoir les manipuler
   * [x] Comprendre le fonctionnement des inputs en HTML5 et savoir les manipuler
