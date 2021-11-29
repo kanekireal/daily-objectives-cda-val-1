@@ -2,11 +2,11 @@
 
 ## Lundi 22/11/2021 :
 
-### Maquettage : **(In progress)**
+### Maquettage :
 
-* [ ] Découvrir le maquettage fonctionnel (wireframe)
-* [ ] Choix d’un outil de maquettage
-* [ ] Reformulation et synthèse des demandes utilisateurs
+* [x] Découvrir le maquettage fonctionnel (wireframe)
+* [x] Choix d’un outil de maquettage
+* [x] Reformulation et synthèse des demandes utilisateurs
 
 
 ### Découverte du Markdown : 
@@ -25,9 +25,9 @@
 * [x] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets, travail en groupe (wiki, repos)
 
 
-### Méthodes agiles : **(In progress)**
+### Méthodes agiles :
 
-* [ ] Initiation aux méthodes agiles
-* [ ] Mise en place la méthodologie Scrum
-* [ ] Mise en place du premier projet sur Jira
-* [ ] Découverte de Gitflow
+* [x] Initiation aux méthodes agiles
+* [x] Mise en place la méthodologie Scrum
+* [x] Mise en place du premier projet sur Jira
+* [x] Découverte de Gitflow
