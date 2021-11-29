@@ -4,7 +4,7 @@
 
 ### Vendredi 19/11/2021 :
 
-* [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+* [x] Faire le wargame bandit jusqu'au niveau 5 (anglais)
 
 
 
