@@ -5,7 +5,7 @@
 ### Jeudi 18/11/2021 :
 
 
-* [ ] Choix de son éditeur, configuration et customisation
+* [x] Choix de son éditeur, configuration et customisation
 * [x] Découverte de VS Code
 * [x] Découverte de Vim
 
