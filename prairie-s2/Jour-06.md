@@ -2,7 +2,7 @@
 
 ## Lundi 22/11/2021 :
 
-### Maquettage : 
+### Maquettage : **(In progress)**
 
 * [ ] Découvrir le maquettage fonctionnel (wireframe)
 * [ ] Choix d’un outil de maquettage
@@ -25,7 +25,7 @@
 * [x] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets, travail en groupe (wiki, repos)
 
 
-### Méthodes agiles :
+### Méthodes agiles : **(In progress)**
 
 * [ ] Initiation aux méthodes agiles
 * [ ] Mise en place la méthodologie Scrum
