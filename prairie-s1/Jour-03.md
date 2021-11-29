@@ -4,7 +4,7 @@
 
 ### Mercredi 17/11/2021 :
 
-* [ ] Commencer à réfléchir à son projet Fil rouge
+* [x] Commencer à réfléchir à son projet Fil rouge
 
 * [ ] Configuration de son environnement de travail
   * [ ] Mise à jour Linux, Mac
@@ -13,10 +13,10 @@
   * [ ] Création et configuration Mail pro 
   * [ ] Création et configuration Twitter pro 
 
-* [ ] Découverte de Linux :
-  * [ ] Savoir ce qu'est Linux
-  * [ ] Savoir ce qu'est une distribution Linux
-  * [ ] Comprendre l'arborescence de Linux
+* [x] Découverte de Linux :
+  * [x] Savoir ce qu'est Linux
+  * [x] Savoir ce qu'est une distribution Linux
+  * [x] Comprendre l'arborescence de Linux
 
 * [ ] Découverte du Terminal : 
   * [ ] Comprendre la différence entre une interface en ligne de commande et une interface graphique
